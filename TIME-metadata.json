@@ -1,0 +1,21 @@
+{
+  "name": "TIME",
+  "symbol": "TIME",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/ORCHIVA/refs/heads/main/ORCHIVA.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/ORCHIVA/refs/heads/main/ORCHIVA.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GybQETFY1sp8hTT2ajqdiWBwEmjzhaoUBf9dscxgvKZG",
+        "share": 100
+      }
+    ]
+  }
+}
